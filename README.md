@@ -25,6 +25,7 @@ fonctionnalités requises, les interactions avec les utilisateurs et les résult
   * Le fichier *OCR_clientele.py* contient le lien avec l'API des facture et comment récupérer les informations textes désirées pour les tables Clientèle et Facturation.
   * Le fichier *OCR_Vente.py* contient le lien avec l'Api des factures et comment récupérer les informations désirées, pour remplir les tables Produits et Vente.
   * Le fichier *Qr_Code.py* contient le code python pour récupérer les données dans un QRcode.
+  * Le fichier *Telechargement.py* contient le code python pour récupérer les factures sur l'APi du client.
 
 -----------------------------------------------------------------------------------------------------------------------------------
   
