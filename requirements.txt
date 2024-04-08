@@ -1,0 +1,13 @@
+requests
+pandas
+dotenv
+pyodbc
+json
+os
+sqlalchemy
+urllib
+sqlalchemy
+utilities
+azure-cognitiveservices-vision-computervision
+unidecode 
+streamlit
