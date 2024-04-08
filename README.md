@@ -22,8 +22,9 @@ fonctionnalités requises, les interactions avec les utilisateurs et les résult
   * Le fichier *requirements.txt* indique l'ensemble des packages qui seront utilisés dans ce projet.
   * Le fichier *ConnexionBDD.py* contient les informations et les requetes pour ajouter des lignes dans la base SQL.
   * Le fichier *Discord_Script.py* contient le script python pour connecter le serveur à un chat discord.
-  * Le fichier *OCR_clientele.py* contient le lien avec l'API des facture et comment récupérer les informations textes désirées pour les tables Clientèle et Facture.
-  * Le fichier *OCR_produit.py* contient le lien avec l'Api des factures et comment récupérer les informations désirées, pour remplir les tables Produits et .
+  * Le fichier *OCR_clientele.py* contient le lien avec l'API des facture et comment récupérer les informations textes désirées pour les tables Clientèle et Facturation.
+  * Le fichier *OCR_Vente.py* contient le lien avec l'Api des factures et comment récupérer les informations désirées, pour remplir les tables Produits et Vente.
+  * Le fichier *Qr_Code.py* contient le code python pour récupérer les données dans un QRcode.
 
 -----------------------------------------------------------------------------------------------------------------------------------
   
