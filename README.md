@@ -12,7 +12,9 @@ fonctionnalités requises, les interactions avec les utilisateurs et les résult
 
 * **Trello** :
 
-* **La Présentation** : 
+* **La Présentation** :
+  
+*  **Le rapport** : https://github.com/leabizbille/InvoiceOCR/blob/main/OCR.pdf
 
 * La **Base de Donnée Relationnelle**, réalisée sous _DBeaver_ et hébergée sur _Azure_ : Le fichier *ScriptSQL*
   
