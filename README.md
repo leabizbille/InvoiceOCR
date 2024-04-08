@@ -20,10 +20,10 @@ fonctionnalités requises, les interactions avec les utilisateurs et les résult
   
 * **Code Python** :
   * Le fichier *requirements.txt* indique l'ensemble des packages qui seront utilisés dans ce projet.
-  * Le fichier *connexion* contient les informations et la requete pour ajouter des lignes dans la base SQL.
-  * Le fichier *database* contient le script python et SQL de la création de la base de données.
-  * Le fichier *geolocalisateur* contient le lien avec l'API de géolocalisation et comment récupérer les informations SIG de la ville désirée.
-  * Le fichier *meteo* contient le lien avec l'Api de la météo et comment récupérer les informations désirées.
+  * Le fichier *ConnexionBDD.py* contient les informations et les requetes pour ajouter des lignes dans la base SQL.
+  * Le fichier * * contient le script python et SQL de la création de la base de données.
+  * Le fichier * * contient le lien avec l'API de géolocalisation et comment récupérer les informations SIG de la ville désirée.
+  * Le fichier * * contient le lien avec l'Api de la météo et comment récupérer les informations désirées.
 
 -----------------------------------------------------------------------------------------------------------------------------------
   
