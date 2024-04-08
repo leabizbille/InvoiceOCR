@@ -12,7 +12,7 @@ fonctionnalités requises, les interactions avec les utilisateurs et les résult
 
 * **Trello** :
 
-* **La Présentation** :
+* **La Présentation** : https://github.com/leabizbille/InvoiceOCR/blob/main/OCR%20avec%20Azure.pdf
   
 *  **Le rapport** : https://github.com/leabizbille/InvoiceOCR/blob/main/OCR.pdf
 
