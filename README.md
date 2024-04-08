@@ -16,7 +16,7 @@ fonctionnalités requises, les interactions avec les utilisateurs et les résult
   
 *  **Le rapport** : https://github.com/leabizbille/InvoiceOCR/blob/main/OCR.pdf
 
-* La **Base de Donnée Relationnelle**, réalisée sous _DBeaver_ et hébergée sur _Azure_ : Le fichier *ScriptSQL*
+* La **Base de Donnée Relationnelle**, réalisée sous _DBeaver_ et hébergée sur _Azure_ : Le fichier *SQL_CreationTables.py*
   
 * **Code Python** :
   * Le fichier *requirements.txt* indique l'ensemble des packages qui seront utilisés dans ce projet.
