@@ -10,7 +10,7 @@ les spécifications fonctionnelles, techniques et de gestion des données établ
 fonctionnalités requises, les interactions avec les utilisateurs et les résultats attendus.
 
 
-* **Trello** :
+* **Trello** : https://trello.com/b/qfknUegy/projet-billing
 
 * **La Présentation** : https://github.com/leabizbille/InvoiceOCR/blob/main/OCR%20avec%20Azure.pdf
   
